@@ -1,0 +1,1 @@
+Goal: Implement a redirector HTTPS server with placeholder to process an HTTP request from JS (launcher) HTTP NodeJS server (Redirecter) and an ASP.NET MVP endpoint (Server)
